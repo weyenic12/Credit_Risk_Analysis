@@ -29,5 +29,5 @@ Undersample:
 
 --------------------------
 ## Summary
-- The geo column represents the balanced accuaracy score for that specific model. 
+- The 'geo' column represents the balanced accuaracy score for that specific model. The 'pre' column represents precision and the 'rec' represents the recall of the model. 
 
