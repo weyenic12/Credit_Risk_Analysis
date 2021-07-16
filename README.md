@@ -1,6 +1,5 @@
 ## Overview of the Analysis
-- The goal of our analysis is to find out if 5 star reviewers are more likely to be from the Amazon Vine program or if they are to be regular customers who were unpaid for their 5-star reviews.
-- The dataset I chose was the video games dataset as I was interested to see if Amazon Vine reviewers were reviewing video games with 5 star ratings.
+- We used a credit card dataset from LendingClub to run machine learning models and algorithms to predict credit risk and figure out whether the performance of the machine learning models is good or bad.
 --------------------------
 ## Results
 BalancedRandomForest:
