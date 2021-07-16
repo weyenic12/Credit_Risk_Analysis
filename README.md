@@ -1,5 +1,5 @@
 ## Overview of the Analysis
-- We used a credit card dataset from LendingClub to run machine learning models and algorithms to predict credit risk and figure out whether the performance of the machine learning models is good or bad.
+- We used a credit card dataset from LendingClub to run six different machine learning models and algorithms to predict credit risk and figure out whether the performance of the machine learning models is good or bad.
 --------------------------
 ## Results
 BalancedRandomForest:
@@ -29,5 +29,5 @@ Undersample:
 
 --------------------------
 ## Summary
-- 
+- The geo column represents the balanced accuaracy score for that specific model. 
 
