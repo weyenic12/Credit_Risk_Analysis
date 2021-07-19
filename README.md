@@ -12,7 +12,7 @@ Combination:
 
 Easy Ensemble:
 
-![easyensemble](https://user-images.githubusercontent.com/80421977/125850726-8dd5f13d-5788-4b61-afe0-eb30c8576942.PNG)
+!![easyensemble](https://user-images.githubusercontent.com/80421977/126087920-49589826-c4f6-4593-8eca-ad6ba1ff71e3.PNG)
 
 Oversample:
 
