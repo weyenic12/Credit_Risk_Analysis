@@ -12,7 +12,7 @@ Combination:
 
 Easy Ensemble:
 
-!![easyensemble](https://user-images.githubusercontent.com/80421977/126087920-49589826-c4f6-4593-8eca-ad6ba1ff71e3.PNG)
+![easyensemble](https://user-images.githubusercontent.com/80421977/126087920-49589826-c4f6-4593-8eca-ad6ba1ff71e3.PNG)
 
 Oversample:
 
@@ -29,5 +29,5 @@ Undersample:
 
 --------------------------
 ## Summary
-- The 'geo' column represents the balanced accuaracy score for that specific model. The 'pre' column represents precision and the 'rec' represents the recall of the model. 
+- The 'geo' column represents the balanced accuaracy score for that specific model. The 'pre' column represents precision and the 'rec' represents the recall of the model. After looking at the results of the six above, the best machine learning algorithm to go with would be the Easy Ensemble algorithm because it has the highest accuracy score of 0.92 and has the highest recall of 0.94. Since, we are trying to find and flag fraudulent applications, the higher recall means it will flag more of the fraudulent applications. However, many of them will be false positives which is a negative, but it is the best of the six models.
 
